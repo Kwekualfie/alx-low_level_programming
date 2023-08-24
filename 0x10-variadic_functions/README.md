@@ -1,5 +1,5 @@
 0x10. C - Variadic functions
-take note
+note
 Resources
 Read or watch:
 
