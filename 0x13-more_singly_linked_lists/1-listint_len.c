@@ -1,7 +1,7 @@
 #include "lists.h"
 /**
- * This function calculates the number of elements in a linked list.
- * @param h: The linked list of type listint_t to be counted.
+ *listint_len - This function calculates the number of elements in a linked list.
+ * @h: The linked list of type listint_t to be counted.
  *
  * @return: The count of nodes in the linked list.
  */
