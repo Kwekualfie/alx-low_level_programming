@@ -1,5 +1,4 @@
 #include "lists.h"
-
 /**
  * This function calculates the number of elements in a linked list.
  * @param h: The linked list of type listint_t to be counted.

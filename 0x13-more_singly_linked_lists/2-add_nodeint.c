@@ -1,5 +1,4 @@
 #include "lists.h"
-
 /**
  * This function inserts a new node at the start of a linked list.
  * @param head: A pointer to the head of the list.
